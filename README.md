@@ -13,7 +13,7 @@ Designed and developed an interactive trivia application focused on Jamaican his
 
 Try it: [Jamaica Trivia Questions](https://hayeomardev.github.io/Jamaicatrivia/)
 
-**Technologies Used:** HTML5, CSS3, JavaScript, jQuery, Google Fonts
+**Technologies Used:** HTML, CSS, JavaScript, jQuery, Google Fonts
 
 Using HTML, CSS, JavaScript, and jQuery, I implemented interactive accordion-style functionality with smooth slide animations and dynamic styling to provide visual feedback when users interact with questions.
 
@@ -41,9 +41,9 @@ Designed and developed a multi-page informational website featuring top-level na
 
 Try it: [Multi Page](https://hayeomardev.github.io/webdemo/examples.htm)
 
-**Technologies Used:** HTML5, CSS3, Multi-Page Routing, Responsive Layout
+**Technologies Used:** HTML, CSS, Multi-Page Routing, Responsive Layout
 
-Using semantic HTML5 and CSS3, I structured a multi-page web experience with a persistent navigation bar containing rounded buttons for Home, About, and Examples so visitors can move smoothly between pages.
+Using semantic HTML and CSS, I structured a multi-page web experience with a persistent navigation bar containing rounded buttons for Home, About, and Examples so visitors can move smoothly between pages.
 
 The project also features a soft light-blue background, clear heading hierarchy, readable body copy explaining Chicago's humid continental climate (Dfa), and an embedded city skyline photograph integrated into the page flow.
 
@@ -68,7 +68,7 @@ Designed and developed an interactive weather forecast web application that allo
 
 Try it: [Weather Application](https://hayeomardev.github.io/weatherapplication/)
 
-**Technologies Used:** HTML5, CSS3, JavaScript, Chart Visualization, National Weather Service Data
+**Technologies Used:** HTML, CSS, JavaScript, Chart Visualization, National Weather Service Data/API request
 
 Using HTML, CSS, and JavaScript, I built an interactive city selector dropdown that dynamically updates the displayed city name, temperature readout (such as 46°F for Dallas), and weather condition summary (such as Showers And Thunderstorms).
 
