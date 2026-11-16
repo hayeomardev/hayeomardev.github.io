@@ -64,7 +64,7 @@ The project also features a soft light-blue background, clear heading hierarchy,
 
 Designed and developed an interactive weather forecast web application that allows users to select a city from a dropdown menu to view current conditions, temperature details, a color-coded temperature guide, and a multi-period forecast bar chart.
 
-![Weather Application Screenshot](images/weather-application.png)
+!![Weather Application Screenshot](weather-application.png)
 
 Try it: [Weather Application](https://hayeomardev.github.io/weatherapplication/)
 
