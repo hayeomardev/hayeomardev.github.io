@@ -37,7 +37,7 @@ The project also features custom CSS styling, a responsive-centered layout, a da
 
 Designed and developed a multi-page informational website featuring top-level navigation across Home, About, and Examples views. The showcased Examples page highlights "Chicago Through the Seasons," presenting climate overview copy alongside visual photography in a structured layout.
 
-![Multi Page Screenshot](images/multi-page.png)
+![Multi Page Screenshot](multi-page.png)
 
 Try it: [Multi Page](https://hayeomardev.github.io/webdemo/examples.htm)
 
