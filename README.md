@@ -9,7 +9,7 @@
 
 Designed and developed an interactive trivia application focused on Jamaican history, national milestones, and key historical figures. The application features a series of expandable questions that reveal answers when clicked, creating a simple and engaging user experience.
 
-![Jamaica Trivia Questions Screenshot](images/jamaica-trivia.png)
+![Jamaica Trivia Questions Screenshot](jamaica-trivia.png)
 
 Try it: [Jamaica Trivia Questions](https://hayeomardev.github.io/Jamaicatrivia/)
 
